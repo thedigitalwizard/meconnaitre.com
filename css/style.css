@@ -1,4 +1,25 @@
 
+
+
+
+@media screen and (max-width: 480px) {
+  
+  body {
+    font-size: 16px;
+  }
+
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+}
+
+
+
+
+
+
   
 body.profile{
 background: url(https://th.bing.com/th/id/R.71e4bf583ce4ca3080355a4fc57d7eba?rik=qgtOuSYxdD10Dw&pid=ImgRaw&r=0)no-repeat;
