@@ -49,14 +49,12 @@ background: url(https://th.bing.com/th/id/R.e1707c345d5ac10c80a674030e606643?rik
 background-size:100%;
 }
 h1.trop{
-   background-color: rgb(0,100,0);
     color: rgb(165, 241, 241);
     font-size: 75px;
     font-weight: bold;
     padding-left: 350px;
     animation: rotate 5s infinite;
   display: inline-block;
-  border-radius: 10px;
 }
 
 
