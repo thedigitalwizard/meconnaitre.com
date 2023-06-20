@@ -55,6 +55,7 @@ h1.trop{
     font-weight: bold;
     padding-left: 350px;
     animation: rotate 5s infinite;
+  display: inline-block;
 }
 
 
